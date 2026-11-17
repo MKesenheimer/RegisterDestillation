@@ -1,0 +1,13 @@
+CLAUDE.md
+NOTES.md
+databases
+execution.log
+captures
+*.elf
+*.sal
+*.csv
+.vscode
+__pycache__
+documents
+claude-reversing-prompt.md
+verify_salt.py

@@ -1,0 +1,6 @@
+[submodule "debugprobe"]
+	path = debugprobe
+	url = https://github.com/MKesenheimer/debugprobe
+[submodule "openocd"]
+	path = openocd
+	url = https://github.com/MKesenheimer/openocd.git
